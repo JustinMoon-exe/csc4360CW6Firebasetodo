@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652422114420",
+    "project_id": "csc4360cw6",
+    "storage_bucket": "csc4360cw6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652422114420:android:f562c8df9cc10dfe8f7521",
+        "android_client_info": {
+          "package_name": "com.example.firebasetodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3BvccsRHOoYLwrw3EGEf9C90wVyY-Nbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
